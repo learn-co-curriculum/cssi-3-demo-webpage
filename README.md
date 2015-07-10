@@ -1,7 +1,7 @@
 ---
 tags:demo, boilerplate, jquery
 level:1
-languages:html, css, python
+languages:html, css, javascript
 resources: jquery
 ---
 
