@@ -5,7 +5,7 @@ languages:html, css, javascript
 resources: jquery
 ---
 
-# Day 3: Code Along Demo Site Materials
+# Day 3: Code Along - Jquery
 
 Fork this Repo, Clone it to your local computer and open up the files! It contains an .html file and .css file with some code in it. It also contains an empty .js file. This is where you will be adding your code during the lesson demos. Your instructor will be using these same files during the examples. Open the posters.html file in the browser and refresh it whenever you save some new code to script.js
 
