@@ -7,7 +7,9 @@ resources: jquery
 
 # Day 3: Code Along - Jquery
 
-Fork this lab, Clone it to your local computer and open up the files! It contains an `.html` file and `.css` file with some code in it. It also contains an empty `.js` file. This is where you will be adding your code during the lesson demos. Your instructor will be using these same files during the examples. Open the `posters.html` file in the browser and refresh it whenever you save some new code to `script.js`
+Fork this lab, clone it to your local computer and open up the files! 
+
+You will see an `.html` file and a `.css` file with some code in it. You should also see an empty `.js` file. This is where you will be adding your code throughout the lesson.  Open the `posters.html` file in your browser and remember to refresh it whenever you save some new code to `script.js`
 
 ### JQuery:
 
