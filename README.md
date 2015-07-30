@@ -1,9 +1,4 @@
----
-tags:demo, boilerplate, jquery
-level:1
-languages:html, css, javascript
-resources: jquery
----
+
 
 # Day 3: Code Along - Jquery
 
