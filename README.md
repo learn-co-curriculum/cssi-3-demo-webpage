@@ -15,4 +15,4 @@ This `poster.html` file is linked to the JS library JQuery which we will be usin
 * [JQuery Documentation](https://api.jquery.com/)
 * [JQuery on W3Schools](http://www.w3schools.com/jquery/jquery_ref_selectors.asp3)
 
-<a href='https://learn.co/lessons/cssi-3-demo-webpage' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-3-demo-webpage' title='Day 3: Code Along - Jquery'>Day 3: Code Along - Jquery</a> on Learn.co and start learning to code for free.</p>
